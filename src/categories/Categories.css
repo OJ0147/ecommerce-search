@@ -1,0 +1,15 @@
+.btn{
+    background-color: green;
+    color: white;
+    padding: 1.5rem;
+    border: none;
+    border-radius: 0.5rem;
+    text-transform: capitalize;
+   
+}
+.flex-center{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 1.5rem;
+}
